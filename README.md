@@ -1,5 +1,8 @@
 ### Hi there 👋
-![ezgif com-resize](https://github.com/meloo244/meloo244/assets/24722598/a0fd64c7-9e9b-49e5-ba51-76331421f132)
+
+![ezgif-5-d0ad001e2f](https://github.com/meloo244/meloo244/assets/24722598/a2c475c3-dad8-474d-a78b-47fcf3b44480)
+
+
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
 <!--
