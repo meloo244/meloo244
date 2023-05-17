@@ -14,7 +14,7 @@
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
 
 
-### 💻 My Discord 
+### 💻 My Discord and Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/429455067565785090)](https://discord.com/users/429455067565785090)
 
 ### 📱 My networks and programme favorite
