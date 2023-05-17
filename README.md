@@ -17,10 +17,12 @@
 ### 💻 My Discord and Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/429455067565785090)](https://discord.com/users/429455067565785090)
 
-### 📱 My networks and programme favorite
+### 📱 My networks and programme favorit
 
+<sub>The network icon is clickable !</sub>
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MelMeloo42)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/429455067565785090)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/melvyn-marie-235949264/)
 [![My Skills](https://skillicons.dev/icons?i=vscode,blender,github,lua)]()
 
