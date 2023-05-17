@@ -10,7 +10,7 @@
 
 ***42 Cursus Student***
 
-|[💻 Libft - Click here !]( https://github.com/meloo244/Libft )|
+|[💻 Common Core - Click Here !]( https://github.com/meloo244/CommonCore )|
 |------------------------------------------------------------|
 
 ## 🧑🏻‍🎓42 Profile
