@@ -22,6 +22,14 @@
 ### 💻 My Discord and Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/429455067565785090)](https://discord.com/users/429455067565785090)
 
+### 🥀 Currently Learning 
+
+> 🖥️ Languages - C | Lua 
+
+> 🎓 Studying - SoLong | PushSwap
+
+> 📚Languages  - English | Japanese 
+
 ### 📱 My networks and programme favorit
 
 <sub>The network icon is clickable !</sub>
