@@ -16,7 +16,7 @@
 ## 🧑🏻‍🎓42 Profile
 [Link my profil]( https://profile.intra.42.fr/users/mmarie )
 
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
+[![mmarie's 42 stats](https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
 ### 💻 My Discord and Activity
