@@ -8,10 +8,10 @@
 |[🧑🏻‍💻My Pisicine - Click here !]( https://github.com/meloo244/42-Piscine-C )|
 |------------------------------------------------------------|
 
-<p align="center">
-  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
-</p>
+## 🧑🏻‍🎓42 Profile
+[Link my profil]( https://profile.intra.42.fr/users/mmarie )
 
+  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MelMeloo42)
-[![My Skills](https://skillicons.dev/icons?i=vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,blender,github,discord,lua)]()
