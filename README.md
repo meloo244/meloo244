@@ -13,8 +13,14 @@
 
   <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
 
+
+### 💻 My Discord 
+[![Discord Presence](https://lanyard.cnrad.dev/api/429455067565785090)](https://discord.com/users/429455067565785090)
+
 ### 📱 My networks and programme favorite
 
 
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/MelMeloo42)
-[![My Skills](https://skillicons.dev/icons?i=vscode,blender,github,discord,lua)]()
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/429455067565785090)
+[![My Skills](https://skillicons.dev/icons?i=vscode,blender,github,lua)]()
+
