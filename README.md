@@ -1,5 +1,7 @@
 ### Hi there 👋
+![ezgif com-resize](https://github.com/meloo244/meloo244/assets/24722598/a0fd64c7-9e9b-49e5-ba51-76331421f132)
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
 <!--
 **meloo244/meloo244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
