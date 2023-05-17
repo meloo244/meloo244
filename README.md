@@ -28,7 +28,7 @@
 
 > 🎓 Studying - SoLong | PushSwap
 
-> 📚Languages  - English | Japanese 
+> 📚Languages  - English | Japanese | French
 
 ### 📱 My networks and programme favorit
 
