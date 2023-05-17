@@ -1,9 +1,6 @@
-### Hi there ![ezgif-3-77333359ba](https://github.com/meloo244/meloo244/assets/24722598/bd1d1478-573a-45e0-8d87-006184cd2d73)
-
-
-
 ![ezgif-5-d0ad001e2f](https://github.com/meloo244/meloo244/assets/24722598/a2c475c3-dad8-474d-a78b-47fcf3b44480)
 
+### Hello there ! ![ezgif-3-77333359ba](https://github.com/meloo244/meloo244/assets/24722598/effe9acf-fcb8-4863-ae81-ca715ffa7256)
 
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off" alt="mmarie's 42 stats" /></a>
