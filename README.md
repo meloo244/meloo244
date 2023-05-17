@@ -8,6 +8,11 @@
 |[🧑🏻‍💻My Pisicine - Click here !]( https://github.com/meloo244/42-Piscine-C )|
 |------------------------------------------------------------|
 
+***42 Cursus Student***
+
+|[💻 Libft - Click here !]( https://github.com/meloo244/Libft )|
+|------------------------------------------------------------|
+
 ## 🧑🏻‍🎓42 Profile
 [Link my profil]( https://profile.intra.42.fr/users/mmarie )
 
