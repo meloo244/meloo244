@@ -24,7 +24,7 @@
 [![mmarie's 42 stats](https://badge.mediaplus.ma/starryblue/mmarie?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 
-### 💻 My Discord and Activity
+### 💻 My Discord and Current Activity
 [![Discord Presence](https://lanyard.cnrad.dev/api/429455067565785090)](https://discord.com/users/429455067565785090)
 
 ### 🥀 Currently Learning 
