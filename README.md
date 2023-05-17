@@ -13,6 +13,11 @@
 |[💻 Common Core - Click Here !]( https://github.com/meloo244/CommonCore )|
 |------------------------------------------------------------|
 
+***42 Student Tools***
+
+|[🔨 42 Tools - Click Here !]( https://github.com/meloo244/42Tools )|
+|------------------------------------------------------------|
+
 ## 🧑🏻‍🎓42 Profile
 [Link my profil]( https://profile.intra.42.fr/users/mmarie )
 
