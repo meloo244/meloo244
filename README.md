@@ -31,7 +31,7 @@
 
 > 🖥️ Languages - C | Lua 
 
-> 🎓 Studying - SoLong | PushSwap
+> 🎓 Studying - SoLong | PushSwap | WordPress
 
 > 📚Languages  - English | Japanese | French
 
