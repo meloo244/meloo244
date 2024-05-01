@@ -32,7 +32,7 @@
 
 > 🖥️ Languages - C | Lua 
 
-> 🎓 Studying - SoLong | PushSwap | WordPress
+> 🎓 Studying - C++ - Python
 
 > 📚Languages  - English | Japanese | French
 
