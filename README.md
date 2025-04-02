@@ -7,7 +7,7 @@ I'm **Mel**, a passionate developer with a love for Japan, anime, manga, AI, tec
 ### 🚀 About Me
 - 🎯 Passionate about coding and problem-solving
 - 💻 Mainly working with **C and C++**
-- 📚 Currently learning **advanced algorithms and low-level programming**
+- 📚 Currently learning **C++**
 - 🌍 Always open to collaborating on interesting projects
 
 ### 📊 GitHub Stats
