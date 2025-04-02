@@ -2,7 +2,7 @@
 
 ![Your GIF Here](https://i.gifer.com/3Q85.gif)
 
-I'm **Mel**, a passionate developer with a love for Japan, anime, manga, AI, technology, and space. 🚀
+I'm **Mel**, a passionate developer with a love for Game, Japan, anime, manga, AI, technology, and space. 🚀
 
 ### 🚀 About Me
 - 🎯 Passionate about coding and problem-solving
