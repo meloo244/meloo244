@@ -4,7 +4,7 @@
   <img src="https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif" width="100%" alt="Coding Gif"/>
 
   <!-- BANNIÈRE HEADER (Texte ajusté : Développeur & Passionné) -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2ff,25,7000ff&height=250&section=header&text=Melvyn%20Marie&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Développeur%20Logiciel%20(42)%20%2F%20Passionné%20Tech%20Polyvalent&descAlign=50&descAlignY=55&descSize=20)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,00f2ff,25,7000ff&height=250&section=header&text=Mel%20&fontSize=70&fontAlign=50&animation=fadeIn&fontAlignY=38&desc=Développeur%20Logiciel%20(42)%20%2F%20Passionné%20Tech%20Polyvalent&descAlign=50&descAlignY=55&descSize=20)
 
   <!-- EFFET TYPING -->
   <a href="https://git.io/typing-svg">
